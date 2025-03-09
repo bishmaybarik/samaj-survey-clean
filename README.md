@@ -44,6 +44,8 @@ global results "$dir/04_Results"
 
 Simply execute `01_Clean.do` in Stata. Once completed, the cleaned dataset will be saved in both .dta and .csv formats inside the `02_Cleaned` folder.
 
+This fixes the instabilities in the variable names and observations and makes the module ready to use! Please follow the [instructions](https://consumerpyramidsdx.cmie.com/kommon/bin/sr.php?kall=wroundet&round_id=2&tabno=4&rrurl=samajdx-consumerpyramidsdx) and merge it with the regular CPHS data you have been using. 
+
 ---
 If you have a more efficient approach to structuring or processing this data, please feel free to share! 
 
